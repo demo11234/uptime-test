@@ -6,7 +6,7 @@ sites:
   - name: Flush 
     url: https://flush.com
   - name: slabs
-    url: https://thewearableinternet.cm
+    url: https://thewearableinternet.com
   - name: jungle
     url: https://api.jungle.xyz
 NOTIFICATION_EMAIL: true
