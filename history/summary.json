@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 446,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 279,
+    "timeDay": 323,
+    "timeWeek": 303,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 233,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 233,
+    "timeDay": 208,
+    "timeWeek": 244,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/hrtiisjdd.com",
     "slug": "jungle",
     "status": "down",
-    "uptime": "99.40%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-26": 77,
+      "2022-08-27": 69,
+      "2022-08-26": 1440,
       "2022-08-25": 681
     }
   }
